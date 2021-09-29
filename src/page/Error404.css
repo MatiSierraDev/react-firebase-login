@@ -1,0 +1,22 @@
+.error {
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0 auto;
+  height: 90vh;
+  overflow: hidden;
+  flex-direction: column;
+  position: relative;
+}
+
+.error h2 {
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  top: 20%;
+  bottom: 0;
+  width: 100%;
+  font-size: 3rem;
+  color: #333;
+}

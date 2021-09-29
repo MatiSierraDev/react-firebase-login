@@ -1,0 +1,22 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 1rem;
+  background-color: white;
+  min-height: 90vh;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpre00.deviantart.net%2Fc5fc%2Fth%2Fpre%2Ff%2F2014%2F053%2Fe%2F2%2Ffree_space_galaxy_texture_by_lyshastra-d77gh54.jpg&f=1&nofb=1");
+  background-blend-mode: luminosity;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.home h1 {
+  text-align: center;
+  color: #fff;
+  font-size: calc(2rem + 1vw);
+  text-align: center;
+}
